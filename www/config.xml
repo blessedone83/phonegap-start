@@ -3,8 +3,8 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.hello-world"
-        version   = "1.0.0">
+        id        = "com.gnsuperstar.app"
+        version   = "99.999">
 
     <name>Generation Next Superstar</name>
 
@@ -13,7 +13,7 @@
     </description>
 
     <author href="http://gnsuperstar.com" email="support@gnsuperstar.com">
-        Generation Next Super Star Music Competition
+        Generation Next Super Star
     </author>
 
     <!--
